@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson 12.3</string>
+    <string name="text_0">0</string>
+    <string name="text_btn_increase">+</string>
+    <string name="text_btn_decrease">-</string>
+    <string name="saved_counter_key">COUNTER_KEY</string>
+    <string name="counter_value">%s</string>
+    <string name="hint_text_input">Enter an integer number</string>
+    <string name="text_input_error">Input format incorrect. Please enter integer number!</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson12.3</string>
+    <string name="text_0">0</string>
+    <string name="text_btn_increase">+</string>
+    <string name="text_btn_decrease">-</string>
+    <string name="saved_counter_key">COUNTER_KEY</string>
+    <string name="counter_value">%s</string>
+</resources>
